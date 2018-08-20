@@ -1,0 +1,34 @@
+KYC65196	222	Domain of unknown function (DUF4834)	PF16118.4	0.00061	13-89
+KYC65196	222	Domain of unknown function (DUF4834)	PF16118.4	0.00061	144-153
+KYC65201	196	HNH endonuclease	PF14279.5	2.6e-12	9-52
+KYC65201	196	HNH endonuclease	PF14279.5	2.6e-12	82-129
+KYC65201	196	HNH endonuclease	PF01844.22	1.4e-11	9-18
+KYC65201	196	HNH endonuclease	PF01844.22	1.4e-11	35-43
+KYC65201	196	HNH endonuclease	PF01844.22	1.4e-11	82-128
+KYC65201	196	HNH endonuclease	PF13395.5	3.3e-09	82-129
+KYC65201	196	Recombination endonuclease VII	PF02945.14	0.00088	5-42
+KYC65201	196	Recombination endonuclease VII	PF02945.14	0.00088	61-125
+KYC65212	73	Cro/C1-type HTH DNA-binding domain	PF13443.5	6.8e-07	7-69
+KYC65212	73	Helix-turn-helix	PF01381.21	1.9e-06	7-58
+KYC65212	73	Helix-turn-helix domain	PF12844.6	0.00034	12-67
+KYC65212	73	Helix-turn-helix domain	PF13744.5	0.00048	3-55
+BAK38062	212	Protein of unknown function (DUF433)	PF04255.13	5.2e-07	69-78
+BAK38062	212	Protein of unknown function (DUF433)	PF04255.13	5.2e-07	159-211
+BAK38062	212	Helix-turn-helix domain of transposase family ISL3	PF13542.5	0.00036	15-32
+BAK38062	212	Helix-turn-helix domain of transposase family ISL3	PF13542.5	0.00036	59-79
+BAK38062	212	Helix-turn-helix domain of transposase family ISL3	PF13542.5	0.00036	187-209
+OAB39301	383	CobQ/CobB/MinD/ParA nucleotide binding domain	PF01656.22	1e-07	131-320
+OAB39301	383	AAA domain	PF13614.5	1.4e-06	127-301
+BAU15974	241	AAA domain	PF13614.5	2.9e-18	20-67
+BAU15974	241	AAA domain	PF13614.5	2.9e-18	88-152
+BAU15974	241	CobQ/CobB/MinD/ParA nucleotide binding domain	PF01656.22	9.5e-12	23-180
+BAU15974	241	ATPase MipZ	PF09140.10	1.7e-09	20-143
+BAU15974	241	VirC1 protein	PF07015.10	6.8e-08	21-197
+BAU15974	241	NUBPL iron-transfer P-loop NTPase	PF10609.8	0.00047	20-56
+BAU15974	241	Cellulose biosynthesis protein BcsQ	PF06564.11	0.001	26-55
+BAU15974	241	Cellulose biosynthesis protein BcsQ	PF06564.11	0.001	84-127
+KIX90343	227	Response regulator receiver domain	PF00072.23	4.5e-29	4-111
+KIX90343	227	Transcriptional regulatory protein, C terminal	PF00486.27	9.6e-25	148-223
+KIX90346	289	DJ-1/PfpI family	PF01965.23	6.3e-08	77-201
+KIX90346	289	DJ-1/PfpI family	PF01965.23	6.3e-08	237-277
+KIX90346	289	ThiJ/PfpI family-like	PF17124.4	0.00017	72-200
